@@ -6,7 +6,7 @@
 # DNNTrainerFlow
 A demonstration of an automatic workflow for rapid DNN training using remote AI system resource.
 
-The sample DNN used in the demo can be obtained from [BraggNN](https://github.com/lzhengchun/BraggNN)
+The sample DNN used in the demo can be obtained from the `ddp` branch of [BraggNN](https://github.com/lzhengchun/BraggNN)
 
 # The big picture
 ![The Big Picture](figure/big-picture.png)
