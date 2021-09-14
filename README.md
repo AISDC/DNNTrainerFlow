@@ -13,3 +13,15 @@ The sample DNN used in the demo can be obtained from [BraggNN](https://github.co
 
 # The implementation 
 ![title](figure/workflow-demo.jpeg)
+
+# Requirements
+## AI system side
+- funcx_endpoint=0.3.2
+- PyTorch=1.9.0
+- horovod=0.22.1
+- h5py=2.10.0
+- numpy=1.19.2
+
+## Client/User side
+- globus-automate-client=0.12.0
+- funcx=0.3.2
