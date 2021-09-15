@@ -25,3 +25,8 @@ The sample DNN used in the demo can be obtained from the `ddp` branch of [BraggN
 ## Client/User side
 - globus-automate-client=0.12.0
 - funcx=0.3.2
+
+# Contacts and Docs
+more detail can be found from https://arxiv.org/abs/2105.13967
+
+please reach to zhengchun.liu#@#anl.gov if you run into problems.
